@@ -52,6 +52,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HauHH1910/HauHH1910/output/snake.svg" alt="Snake animation" />
-
 ###
