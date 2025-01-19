@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHowd2Y3dGM3YXg4MDlvM2QwY2ZqMnltZm44ZWZhbnVuNXQxYnoxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/nuufztgCvyJZIuSkgd/giphy.gif"  />
-</div>
-
-<div align="center">
   <h1>Hi there👋</h1>
   <p>I'm Backend Developer</p>
   <p>
@@ -22,4 +18,7 @@
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" heigth="50">
   </p>
   <p>I currently learning GoLang and React</p>
+</div>
+<div align="center">
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHowd2Y3dGM3YXg4MDlvM2QwY2ZqMnltZm44ZWZhbnVuNXQxYnoxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/nuufztgCvyJZIuSkgd/giphy.gif"  />
 </div>
